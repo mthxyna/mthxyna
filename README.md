@@ -1,5 +1,5 @@
 
-<h1>  Hi, I'm Thayná Machado ♡
+<h1>  Hi, I'm Thayná Machado 
   <a href="https://www.linkedin.com/in/thayn%C3%A1-machado-1775bb211/"><img src="https://img.shields.io/badge/Thayná Machado-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </h1>
 
