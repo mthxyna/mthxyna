@@ -41,9 +41,10 @@ My name is Thayná Machado, I'm 19 years old and i'm learning to code.
 
 ---
 
-
+<div align="center">  
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sg98zqlrkpd3y5rd08zjgn24i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=sg98zqlrkpd3y5rd08zjgn24i&redirect=true)
 
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=white&height=120&section=footer"/>
