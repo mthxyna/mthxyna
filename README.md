@@ -1,8 +1,9 @@
 
 <h1>Hi! My name is Thayná Machado
   <a href="https://www.linkedin.com/in/thayn%C3%A1-machado-1775bb211/"><img src="https://img.shields.io/badge/Thayná Machado-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  ![Bosch](https://img.shields.io/badge/Bosch-%23121011.svg?style=for-the-badge&logo=bosch&logoColor=white)
 <h1>
+
+![Bosch](https://img.shields.io/badge/Bosch-%23121011.svg?style=for-the-badge&logo=bosch&logoColor=white)
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A6745&height=120&section=header"/>
 
