@@ -34,6 +34,4 @@ My name is Thayná Machado, I'm 19 years old and i'm learning to code.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ---
 
-<!--
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthxyna&layout=compact&langs_count=7&theme=algolia"/
--->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B2AE8&height=120&section=footer"/>
