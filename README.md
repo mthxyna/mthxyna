@@ -21,7 +21,7 @@ My name is Thayná Machado, I'm 19 years old and i'm learning to code.
 
 ![Figma](https://img.shields.io/badge/figma-%235442f5.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23121011.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/figma-%23FF9A00.svg?style=for-the-badge&logo=canva&logoColor=00C4CC)
+![Canva](https://img.shields.io/badge/figma-%FF9A00.svg?style=for-the-badge&logo=canva&logoColor=00C4CC)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
