@@ -20,7 +20,7 @@
   />
 </picture>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B2AE8&size=35&center=true&vCenter=true&width=1000&lines=WELCOME+TO+MY+PROFILE!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=white&size=35&center=true&vCenter=true&width=1000&lines=WELCOME+TO+MY+PROFILE!+:%29)](https://git.io/typing-svg)
 
 ---
 
