@@ -5,7 +5,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=72AF81&height=120&section=header"/>
 <picture>
   <source
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
   />
   <source
