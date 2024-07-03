@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/thayn%C3%A1-machado-1775bb211/"><img src="https://img.shields.io/badge/Thayná Machado-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <h1>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38761D&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=white&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B2AE8&size=35&center=true&vCenter=true&width=1000&lines=WELCOME+TO+MY+PROFILE!+:%29)](https://git.io/typing-svg)
 
@@ -46,4 +46,4 @@ My name is Thayná Machado, I'm 19 years old and i'm learning to code.
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sg98zqlrkpd3y5rd08zjgn24i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=sg98zqlrkpd3y5rd08zjgn24i&redirect=true)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38761D&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=white&height=120&section=footer"/>
