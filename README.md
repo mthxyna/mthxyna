@@ -17,6 +17,8 @@
   />
 </picture>
 
+---
+
 ### About me
 My name is Thayná Machado, I'm 19 years old and i'm learning to code.
  * Interests: UX/UI and Front-End;
