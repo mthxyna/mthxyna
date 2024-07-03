@@ -26,9 +26,6 @@ My name is Thayná Machado, I'm 19 years old and i'm learning to code.
 
 ---
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/sg98zqlrkpd3y5rd08zjgn24i)
-</div>
 
 <picture>
   <source
@@ -44,5 +41,7 @@ My name is Thayná Machado, I'm 19 years old and i'm learning to code.
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sg98zqlrkpd3y5rd08zjgn24i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38761D&height=120&section=footer"/>
