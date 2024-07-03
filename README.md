@@ -27,7 +27,7 @@ My name is Thayná Machado, I'm 19 years old and i'm learning to code.
 ---
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/thay)
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/sg98zqlrkpd3y5rd08zjgn24i)
 </div>
 
 <picture>
