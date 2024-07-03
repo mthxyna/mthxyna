@@ -2,7 +2,7 @@
 <h1>  Hi, I'm Thayná Machado 
   <a href="https://www.linkedin.com/in/thayn%C3%A1-machado-1775bb211/"><img src="https://img.shields.io/badge/Thayná Machado-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </h1>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=809785&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=728B78&height=120&section=header"/>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -35,4 +35,4 @@ My name is Thayná Machado, I'm 19 years old and i'm learning to code.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=809785&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=728B78&height=120&section=footer"/>
