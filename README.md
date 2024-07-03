@@ -17,6 +17,12 @@
   />
 </picture>
 
+### About me
+My name is Thayná Machado, I'm 19 years old and i'm learning to code.
+ * Interests: UX/UI and Front-End;
+ * Currently working at: Bosch LTDA;
+ * I live in: Joinville, Brasil;
+ * Graphic Design lover.
 
 <!--
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthxyna&layout=compact&langs_count=7&theme=algolia"/
