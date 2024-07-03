@@ -3,8 +3,6 @@
   <a href="https://www.linkedin.com/in/thayn%C3%A1-machado-1775bb211/"><img src="https://img.shields.io/badge/Thayná Machado-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <h1>
 
-![Bosch](https://img.shields.io/badge/Bosch-%23121011.svg?style=for-the-badge&logo=bosch&logoColor=white)
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A6745&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B2AE8&size=35&center=true&vCenter=true&width=1000&lines=WELCOME+TO+MY+PROFILE!+:%29)](https://git.io/typing-svg)
@@ -24,7 +22,7 @@ My name is Thayná Machado, I'm 19 years old and i'm learning to code.
 ![Figma](https://img.shields.io/badge/figma-%235442f5.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23121011.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23121011.svg?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
 ---
 
 <picture>
