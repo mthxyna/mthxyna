@@ -27,9 +27,9 @@
 ### About me
 My name is Thayná Machado, I'm 19 years old and i'm learning to code.
  * Interests: UX/UI and Front-End;
- * Currently working at: Bosch LTDA;
+ * Currently working at: Kingspan Isoeste;
  * I live in: Joinville, Brasil;
- * Graphic Design lover.
+ * Design lover.
 
 ---
 ### Tools
