@@ -9,16 +9,19 @@
     alt="Typing SVG"
 />
 
-### My social networks:
+## 🚀 &nbsp; My social networks:
 
 <a href="https://www.instagram.com/m.thaayna/"><img src="https://skillicons.dev/icons?i=instagram"/>
 <a href="https://www.linkedin.com/in/mthaayna/"><img src="https://skillicons.dev/icons?i=linkedin"/>
 
-## 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+## 🚀 &nbsp;Some Tools I Have Used and Learned
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="java" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascrcipt" width="45" height="45"/>
 </p>
 
 <footer>
