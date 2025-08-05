@@ -9,7 +9,7 @@
     alt="Typing SVG"
 />
 
-## 🚀 &nbsp; My social networks:
+## &nbsp; My social networks:
 
 <a href="https://www.linkedin.com/in/mthaayna/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/>
 
