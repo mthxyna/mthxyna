@@ -1,10 +1,13 @@
+<header>
+    <img src= "https://capsule-render.vercel.app/api?type=waving&height=100&color=5576C2">
+</header>
 
-<h1>Hi! My name is Thayná Machado
-  <a href="https://www.linkedin.com/in/thayn%C3%A1-machado-1775bb211/"></a>
-<h1>
+## Hello, I'm Thayná Machado :smiley:
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=white&height=120&section=header"/>
-
+<img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=5576C2&center=false&vCenter=true&repeat=true&width=435&lines=-%3E+Welcome+to+my+profile"
+    alt="Typing SVG"
+/>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
