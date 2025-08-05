@@ -9,6 +9,11 @@
     alt="Typing SVG"
 />
 
+### My social networks:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/mthaayna/) 
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/m.thaayna/)
+
 <footer>
     <img src= "https://capsule-render.vercel.app/api?type=waving&height=125&color=5576C2&section=footer">
 </footer>
