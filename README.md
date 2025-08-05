@@ -11,7 +11,7 @@
 
 ## 🚀 &nbsp; My social networks:
 
-<a href="https://www.linkedin.com/in/mthaayna/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+<a href="https://www.linkedin.com/in/mthaayna/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/>
 
 ## 🚀 &nbsp;Some Tools I Have Used and Learned
 <p align="left">
