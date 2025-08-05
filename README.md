@@ -1,5 +1,5 @@
 <header>
-    <img src= "https://capsule-render.vercel.app/api?type=waving&height=100&color=5576C2">
+    <img src= "https://capsule-render.vercel.app/api?type=waving&height=100&color=5a9169">
 </header>
 
 ## Hello, I'm Thayná Machado :smiley:
