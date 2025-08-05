@@ -11,13 +11,8 @@
 
 ### My social networks:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/mthaayna/) 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/m.thaayna/)
-
-<img src=""/>
-
 <a href="https://www.instagram.com/m.thaayna/"><img src="https://skillicons.dev/icons?i=instagram"/>
-
+<a href="https://www.linkedin.com/in/mthaayna/"><img src="https://skillicons.dev/icons?i=linkedin"/>
 
 <footer>
     <img src= "https://capsule-render.vercel.app/api?type=waving&height=125&color=5576C2&section=footer">
