@@ -11,8 +11,7 @@
 
 ## 🚀 &nbsp; My social networks:
 
-<a href="https://www.instagram.com/m.thaayna/"><img src="https://skillicons.dev/icons?i=instagram"/>
-<a href="https://www.linkedin.com/in/mthaayna/"><img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/mthaayna/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 
 ## 🚀 &nbsp;Some Tools I Have Used and Learned
 <p align="left">
@@ -20,6 +19,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="java" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascrcipt" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascrcipt" width="45" height="45"/>
 </p>
