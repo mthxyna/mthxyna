@@ -9,4 +9,6 @@
     alt="Typing SVG"
 />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=white&height=120&section=footer"/>
+<footer>
+    <img src= "https://capsule-render.vercel.app/api?type=waving&height=125&color=5576C2&section=footer">
+</footer>
