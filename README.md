@@ -8,20 +8,6 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=5576C2&center=false&vCenter=true&repeat=true&width=435&lines=-%3E+Welcome+to+my+profile"
     alt="Typing SVG"
 />
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=WELCOME+TO+MY+PROFILE!+:%29)](https://git.io/typing-svg)
 
