@@ -23,15 +23,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=WELCOME+TO+MY+PROFILE!+:%29)](https://git.io/typing-svg)
 
 ---
-
-### About me
-My name is Thayná Machado, I'm 19 years old and i'm learning to code.
- * Interests: UX/UI and Front-End;
- * Currently working at: Kingspan Isoeste;
- * I live in: Joinville, Brasil;
- * Design lover.
-
----
 ### Tools
 
 ![Figma](https://img.shields.io/badge/figma-%235442f5.svg?style=for-the-badge&logo=figma&logoColor=white)
