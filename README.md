@@ -14,6 +14,13 @@
 <a href="https://www.instagram.com/m.thaayna/"><img src="https://skillicons.dev/icons?i=instagram"/>
 <a href="https://www.linkedin.com/in/mthaayna/"><img src="https://skillicons.dev/icons?i=linkedin"/>
 
+## 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
+
 <footer>
     <img src= "https://capsule-render.vercel.app/api?type=waving&height=125&color=5576C2&section=footer">
 </footer>
